@@ -1,0 +1,10 @@
+c:\users\sarmed\documents\visual studio 2012\Projects\log\log\bin\Debug\log.exe.config
+c:\users\sarmed\documents\visual studio 2012\Projects\log\log\obj\Debug\log.csprojResolveAssemblyReference.cache
+c:\users\sarmed\documents\visual studio 2012\Projects\log\log\obj\Debug\log.Form1.resources
+c:\users\sarmed\documents\visual studio 2012\Projects\log\log\obj\Debug\log.Form2.resources
+c:\users\sarmed\documents\visual studio 2012\Projects\log\log\obj\Debug\log.Properties.Resources.resources
+c:\users\sarmed\documents\visual studio 2012\Projects\log\log\obj\Debug\log.csproj.GenerateResource.Cache
+c:\users\sarmed\documents\visual studio 2012\Projects\log\log\bin\Debug\log.exe
+c:\users\sarmed\documents\visual studio 2012\Projects\log\log\bin\Debug\log.pdb
+c:\users\sarmed\documents\visual studio 2012\Projects\log\log\obj\Debug\log.exe
+c:\users\sarmed\documents\visual studio 2012\Projects\log\log\obj\Debug\log.pdb
